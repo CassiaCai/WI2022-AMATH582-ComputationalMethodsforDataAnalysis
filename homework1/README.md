@@ -1,9 +1,3 @@
 ## Abstract
 
 The three-dimensional underwater movements of an object that vibrates with a fre- quency signature can be tracked using acoustic pressure measurements. Vibrations result in me- chanical disturbances that propagate through the fluid, increasing or decreasing pressure with time. Acoustic pressure data can be noisy. Using a noisy dummy three-dimensional acoustic pressure data set where a submarine is moving, we demonstrate that the submarine’s trajectory can be tracked using Fourier transform to extract the submarine frequency signature, implementing a filter that extracts this frequency signature to denoise the data, and detecting the submarine over time. In this data set, central frequencies are (-4.712, -1.885, 7.226) and (4.712, 1.885, -7.226), and the filter used is Gaussian. This method has a wide range of applicability in biological oceanography and fisheries research to track marine animal movement.
-
-[figure3 4.00.52 PM.pdf](https://github.com/CassiaCai/WI2022-AMATH582-ComputationalMethodsforDataAnalysis/files/7962550/figure3.4.00.52.PM.pdf)
-
-
-<!-- [figure5 4.00.52 PM.pdf](https://github.com/CassiaCai/WI2022-AMATH582-ComputationalMethodsforDataAnalysis/files/7962552/figure5.4.00.52.PM.pdf)
-Figure 5. (a) Same as Fig. 4a (b) Same as Fig. 4b -->
