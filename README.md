@@ -1,4 +1,4 @@
-AMATH 582 Computational Methods for Data Analysis
+# AMATH 582 Computational Methods for Data Analysis
 
 ### Course description
 Exploratory and objective data analysis methods applied to the physical, engineering, 
