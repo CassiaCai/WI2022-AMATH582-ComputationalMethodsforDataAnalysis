@@ -11,3 +11,4 @@ compression.
     
     I. Finding submarines
     II. Classifying digits
+    III. Qualifying red wine
