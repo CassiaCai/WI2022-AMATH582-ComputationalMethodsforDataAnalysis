@@ -13,3 +13,4 @@ compression.
     II. Classifying digits
     III. Qualifying red wine
     IV. Clasifying politicians
+    V. Compressed Image Recovery
